@@ -117,7 +117,7 @@ section {
 }
 
 .stats div div {
-    diplay: grid;
+    display: grid;
     place-items: center;
     min-width: 40px;
 }
